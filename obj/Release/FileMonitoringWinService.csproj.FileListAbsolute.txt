@@ -1,0 +1,7 @@
+C:\MyServices\FileMonitoringWinService\bin\Release\FileMonitoringWinService.exe.config
+C:\MyServices\FileMonitoringWinService\bin\Release\FileMonitoringWinService.exe
+C:\MyServices\FileMonitoringWinService\bin\Release\FileMonitoringWinService.pdb
+C:\MyServices\FileMonitoringWinService\obj\Release\FileMonitoringWinService.csproj.AssemblyReference.cache
+C:\MyServices\FileMonitoringWinService\obj\Release\FileMonitoringWinService.csproj.CoreCompileInputs.cache
+C:\MyServices\FileMonitoringWinService\obj\Release\FileMonitoringWinService.exe
+C:\MyServices\FileMonitoringWinService\obj\Release\FileMonitoringWinService.pdb
